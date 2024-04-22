@@ -18,7 +18,7 @@ The main functionality of this project includes:
 **data_producer.py:** Python script to produce sample JSON messages to the Kafka topic retrasos.
 **requirements.txt:** List of dependencies required to run the code.
 
-#Usage
+# Usage
 Ensure that you have Apache Kafka set up and running.
 Install the required dependencies using pip install -r requirements.txt.
 Run the data_producer.py script to produce sample JSON messages to the Kafka topic retrasos.
